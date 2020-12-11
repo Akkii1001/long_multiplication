@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 long multiplication
+=======
+/*code of long multiplication in cpp*/
+>>>>>>> 8998a7d9e437871b25b2c573249ef3d55a70a653
 
 #include <iostream>
 #include <string.h>
